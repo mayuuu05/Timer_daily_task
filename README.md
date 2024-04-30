@@ -11,15 +11,15 @@
 # Asynchronous Programming
 
 
-## Que-1 What is  Asynchronous Programming?
+### Que-1 What is  Asynchronous Programming?
 
 Asynchronous programming is a programming paradigm that allows tasks or operations to run independently and concurrently, without waiting for each other to complete before moving on to the next task. 
 
-## Que-2 What is Future Class ?
+### Que-2 What is Future Class ?
 
 In Dart, a Future represents a value that may not be available yet. It encapsulates an asynchronous operation and provides a way to handle the result or error when it becomes available. The Future can be in one of three states: uncompleted, completed with a value, or completed with an error with talk about in detail in other blog.
 
-## Que-3 What is Duration class & Future.delayed() constructor with Example ?
+### Que-3 What is Duration class & Future.delayed() constructor with Example ?
 
 
 ## Duration Class
@@ -69,7 +69,7 @@ The Future. delayed mechanism is straightforward. Simply put, it allows you to t
  }
 ```
 
-## Que-4 What is the Use of the async & await keyword?
+### Que-4 What is the Use of the async & await keyword?
 
 ## Async and Await in Flutter
 
@@ -88,7 +88,7 @@ The await keyword is used to pause the execution of an asynchronous function unt
 
 
 
-## Que-5 What is Recursion ? With Example. 
+### Que-5 What is Recursion ? With Example. 
 
 Recursion in any programming language means a function making a call to itself. It is used to solve large complex problems by breaking them into smaller subproblems. 
 
@@ -109,7 +109,7 @@ Recursion in any programming language means a function making a call to itself. 
  }
  ```
 
-## Que-6 What is Timer class with example ? 
+### Que-6 What is Timer class with example ? 
 The Timer class is used to create a one-time or periodic timer. It allows you to schedule a callback function to be executed after a specified duration.
 
  It's useful for scenarios where you need to execute code at regular intervals or after a certain delay.
@@ -129,7 +129,7 @@ The Timer class is used to create a one-time or periodic timer. It allows you to
  }
  ```
 
-## Que-7 What is Timer.periodic and use with Example?
+### Que-7 What is Timer.periodic and use with Example?
 Timer.periodic is a constructor of the Timer class that creates a periodic timer. It repeatedly fires a callback function at specified intervals until it is canceled
 
 ## Example 
