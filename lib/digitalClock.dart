@@ -258,5 +258,3 @@ String day = '';
 
 String time = '';
 String month = '';
-
-int hour = 0;
