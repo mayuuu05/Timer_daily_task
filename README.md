@@ -15,11 +15,12 @@
 </div>
 
 
+![analogClock]()
 
 
 <h1 align="center"> 👉Analog Clock </h1>
 <div align = "center">
-  <img align = "https://github.com/mayuuu05/Timer_daily_task/assets/149376263/527a3111-f39f-417b-bbcf-ce060e6f8f84"  height=35% width=22%  />
+  <img align = "https://github.com/mayuuu05/Timer_daily_task/assets/149376263/3a4bb17e-62fb-49b0-a2b0-b022e92d6d82"  height=35% width=22%  />
  
 </div>
 
