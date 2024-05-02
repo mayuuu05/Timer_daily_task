@@ -1,10 +1,12 @@
 # timer_daily_task
 
-# Button Task                                    
-<p>
+
+<h1 align="center"> 👉 Button Task    </h1>
+<p align = "center">
   <img src = "https://github.com/mayuuu05/Timer_daily_task/assets/149376263/afffc3fb-31f1-4788-aa6d-bed5888dbfe1" height=35% width=22%>
 </p>
-<h1 align="center"> Digital Clock ⏰ 🔸🔶 </h1>
+
+<h1 align="center"> 👉Digital Clock ⏰  </h1>
 
   <div align = "center">
   <img src = "https://github.com/mayuuu05/Timer_daily_task/assets/149376263/e9d9f80d-62e4-4e9d-bcb6-28d1f1d96241" height=35% width=22% />
@@ -15,10 +17,10 @@
 
 
 
-<h1 align="center"> Analog Clock </h1>
+<h1 align="center"> 👉Analog Clock </h1>
 <div align = "center">
-  <img align = "https://github.com/mayuuu05/Timer_daily_task/assets/149376263/527a3111-f39f-417b-bbcf-ce060e6f8f84"/>
-  <video height="450" src="https://github.com/mayuuu05/Timer_daily_task/assets/149376263/e36f91ec-3cc7-4b11-b249-571ebcb263c4"/>
+  <img align = "https://github.com/mayuuu05/Timer_daily_task/assets/149376263/527a3111-f39f-417b-bbcf-ce060e6f8f84"  height=35% width=22%  />
+ 
 </div>
 
 
