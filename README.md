@@ -7,7 +7,7 @@
 <h1 align="center"> Digital Clock ⏰ 🔸🔶 </h1>
 
   <div align = "center">
-  <img src = "https://github.com/mayuuu05/Timer_daily_task/assets/149376263/e9d9f80d-62e4-4e9d-bcb6-28d1f1d96241" height=35% width=22% />
+  <img src = "https://github.com/mayuuu05/Timer_daily_task/assets/149376263/e9d9f80d-62e4-4e9d-bcb6-28d1f1d96241" />
   <video height="450" src="https://github.com/mayuuu05/Timer_daily_task/assets/149376263/b59845d8-96f9-4f29-98f9-762aed209322
 "/>
 </div>
