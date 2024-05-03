@@ -20,7 +20,9 @@
 
 <h1 align="center"> 👉Analog Clock </h1>
 <div align = "center">
-  <img align = "https://github.com/mayuuu05/Timer_daily_task/assets/149376263/3a4bb17e-62fb-49b0-a2b0-b022e92d6d82"  height=35% width=22%  />
+  <img align = "https://github.com/mayuuu05/Timer_daily_task/assets/149376263/0344d4e1-9b1b-495b-9af6-6bed630a93d1"  height=35% width=22%  />
+   <video height="450" src="https://github.com/mayuuu05/Timer_daily_task/assets/149376263/c5638183-8870-4df8-81a4-07a015434579)
+"/>
  
 </div>
 
