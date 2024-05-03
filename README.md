@@ -15,17 +15,14 @@
 </div>
 
 
-![analogClock]()
 
 
 <h1 align="center"> 👉Analog Clock </h1>
 <div align = "center">
-  <img align = "https://github.com/mayuuu05/Timer_daily_task/assets/149376263/0344d4e1-9b1b-495b-9af6-6bed630a93d1"  height=35% width=22%  />
-   <video height="450" src="https://github.com/mayuuu05/Timer_daily_task/assets/149376263/c5638183-8870-4df8-81a4-07a015434579)
-"/>
+  <img align = "https://github.com/mayuuu05/Timer_daily_task/assets/149376263/bfcd089e-50c9-43ca-a8fe-1f44273c5857"  height=35% width=22%  />
+   <video height="450" src="https://github.com/mayuuu05/Timer_daily_task/assets/149376263/6a17725c-ca2a-4e88-8e2b-6150e22e8d91") />
  
 </div>
-
 
 
 
