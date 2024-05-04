@@ -16,7 +16,6 @@ class _TimerDailyTaskState extends State<TimerDailyTask> {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-     
     );
   }
 }
